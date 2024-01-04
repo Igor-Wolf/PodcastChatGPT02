@@ -14,7 +14,7 @@ Este podcast de 5 minutos oferece um passeio rápido, mas profundo, pelo mundo d
 ## 🚀 Resultados
 O episódio é uma introdução acessível e estimulante ao jogo Dragon Age: Origins, ideal para quem busca um bom jogo de rpg com estratégia por tunos ou em tempo real.
 
-[LINK PARA O PODCAST AQUI]()
+[LINK PARA O PODCAST AQUI](https://github.com/Igor-Wolf/PodcastChatGPT02/raw/main/output/editado/final.mp3)
 
 ## 💭 Reflexão
 O projeto destacou a versatilidade das IAs Generativas na criação de conteúdo auditivo, abrindo novos caminhos para a produção de mídia digital.
